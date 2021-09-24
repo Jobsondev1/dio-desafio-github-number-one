@@ -1,2 +1,2 @@
 # dio-desafio-github-number-one
-Desafio projeto gi e gihub 
+Desafio projeto git e gihub 
